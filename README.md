@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+A full stack developer and AI enthusiats by day and a gamer by night
+
+Ex iOS Developer at Apple Developer Academy @ UC
+
+Try my app on the App Store:
+- [Visionalé](https://apps.apple.com/id/app/visional%C3%A9/id6737191146)
+
 <!--
 **nico-samuelson/nico-samuelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
