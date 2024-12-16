@@ -14,51 +14,12 @@
  > 
 > 🏆 462 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-🌆 Daytime                762 commits         ████████░░░░░░░░░░░░░░░░░   33.39 % 
-🌃 Evening                1012 commits        ███████████░░░░░░░░░░░░░░   44.35 % 
-🌙 Night                  308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   368 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Tuesday                  334 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Wednesday                208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Thursday                 331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Friday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Saturday                 381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Sunday                   342 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Swift** 
 
 ```text
@@ -72,7 +33,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2024 13:11:41 UTC
+ Last Updated on 16/12/2024 18:49:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
