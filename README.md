@@ -5,6 +5,11 @@
 - 🍎 Ex iOS Developer Intern at Apple Developer Academy @ UC
 - 🔨 Developed: [Visionalé](https://apps.apple.com/id/app/visional%C3%A9/id6737191146), [FootFlash](https://apps.apple.com/id/app/footflash/id6550905078), more coming soon!
 
+### 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **nico-samuelson/nico-samuelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
