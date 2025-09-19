@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🤖 I'm interested in full stack developer and AI engineering
-- 🌱 I use daily: `.py`, `.swift`, `.js`, `.php`
+- 🌱 I use daily: `.py`, `.go`, `.js`, `.swift`, `.php`
 - 🍎 Ex iOS Developer Intern at Apple Developer Academy @ UC
 - 🔨 Developed: [Visionalé](https://apps.apple.com/id/app/visional%C3%A9/id6737191146), [FootFlash](https://apps.apple.com/id/app/footflash/id6550905078), more coming soon!
 
