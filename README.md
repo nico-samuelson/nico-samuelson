@@ -47,13 +47,13 @@ Sunday                   290 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -69,7 +69,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2025 18:49:30 UTC
+ Last Updated on 07/12/2025 18:49:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
