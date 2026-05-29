@@ -20,20 +20,62 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                167 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+🌆 Daytime                1090 commits        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌃 Evening                2028 commits        █████████████░░░░░░░░░░░░   53.69 % 
+🌙 Night                  492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Tuesday                  536 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Wednesday                544 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Thursday                 649 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   732 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Saturday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Sunday                   376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               11 hrs 50 mins      ███████████████████░░░░░░   76.92 % 
+Markdown                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Go                       46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 52 mins      ███████████████████░░░░░░   77.08 % 
+Cursor                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Claude Code              1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+
+💻 Operating System: 
+Mac                      15 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Swift                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 28/05/2026 20:45:32 UTC
+ Last Updated on 29/05/2026 20:46:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
