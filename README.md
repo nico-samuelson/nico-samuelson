@@ -47,18 +47,18 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   38.07 % 
-Markdown                 1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   33.96 % 
-JSON                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+TypeScript               2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.03 % 
+Markdown                 2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Makefile                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Caddyfile                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 57 mins       ███████████████████░░░░░░   74.49 % 
-Cursor                   1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Claude Code              4 hrs 53 mins       ████████████████████░░░░░   80.65 % 
+Cursor                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 
 💻 Operating System: 
-Mac                      3 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -74,7 +74,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:44:48 UTC
+ Last Updated on 26/07/2026 19:46:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
