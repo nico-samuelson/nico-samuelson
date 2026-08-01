@@ -8,13 +8,13 @@
 ### My Coding Stats
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%207%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 618.6 kB Used in GitHub's Storage 
  > 
-> 🏆 134 Contributions in the Year 2026
+> 🏆 135 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,8 +37,8 @@ Monday                   438 commits         ███░░░░░░░░�
 Tuesday                  490 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Wednesday                487 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Thursday                 540 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Friday                   591 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 512 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Friday                   589 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Saturday                 514 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 Sunday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 ```
 
@@ -49,43 +49,43 @@ Sunday                   369 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
-Markdown                 1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   34.02 % 
-JSON                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Makefile                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Caddyfile                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Markdown                 2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.73 % 
+TypeScript               2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.72 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Makefile                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 29 mins       ██████████████████████░░░   86.10 % 
-Cursor                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Claude Code              3 hrs 57 mins       ███████████████████░░░░░░   76.17 % 
+Cursor                   1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
 
 💻 Operating System: 
-Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 10 mins (99.07%)
+⏱ AI Coding Time: 4 hrs 53 mins (94.39%)
 
-✍️ 3,206 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,596 lines written by AI, 6 lines written by hand (99.63% AI-written)
 
-🔤 143,461,856 Input Tokens, 512,995 Output Tokens
+🔤 81,454,775 Input Tokens, 301,655 Output Tokens
 
-💵 $588.97 Estimated AI Cost This Week
+💵 $391.87 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 44 AI Prompts
+🧠 12 AI Sessions, 55 AI Prompts
 
-Opus                     1,882 lines         ██████████████░░░░░░░░░░░   56.18 % 
-Sonnet                   1,297 lines         ██████████░░░░░░░░░░░░░░░   38.72 % 
-Grok                     171 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Opus                     1,477 lines         ██████████████████████░░░   89.57 % 
+Grok                     171 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 516 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.35% of changed lines were hand-edited
+🤖 AI-Driven — 99.63% of written lines came from AI
+📚 Verbose Prompter — average 11,577 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -101,7 +101,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:04:49 UTC
+ Last Updated on 01/08/2026 19:45:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
