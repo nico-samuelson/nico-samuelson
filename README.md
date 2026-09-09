@@ -49,44 +49,44 @@ Sunday                   542 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 8 mins        ███████████████████░░░░░░   77.19 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               3 hrs 24 mins       ███████████████████░░░░░░   77.38 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Cursor                   1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   35.67 % 
-Codex Vscode             1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-Agent                    57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Claude Code              53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Codex Vscode             1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.59 % 
+Cursor                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Agent                    57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Claude Code              53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 
 💻 Operating System: 
-Mac                      5 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 10 mins (96.66%)
+⏱ AI Coding Time: 4 hrs 13 mins (95.94%)
 
-✍️ 948 lines written by AI, 9 lines written by hand (99.06% AI-written)
+✍️ 617 lines written by AI, 9 lines written by hand (98.56% AI-written)
 
-🔤 3,484,954 Input Tokens, 529,130 Output Tokens
+🔤 2,366,227 Input Tokens, 401,843 Output Tokens
 
-💵 $63.92 Estimated AI Cost This Week
+💵 $53.39 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 120 AI Prompts
+🧠 30 AI Sessions, 109 AI Prompts
 
-GPT                      1,160 lines         █████████████████████████   100.00 % 
+GPT                      761 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📚 Verbose Prompter — average 8,441 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 21.2% of changed lines were hand-edited
+🤖 AI-Driven — 98.56% of written lines came from AI
+📚 Verbose Prompter — average 8,058 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 29.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -102,7 +102,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:22:05 UTC
+ Last Updated on 09/09/2026 21:07:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
